@@ -1,0 +1,274 @@
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Deploying 'DonationContract'
+   ----------------------------
+   > transaction hash:    0x3e80b9515c9666311578026aca51ee03f798ffc51b048a21bec8ffaa95d7a4c9
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xA28FbCAE2E0289341435a2a29aee77747cd2BFd1
+   > block number:        1
+   > block timestamp:     1685598978
+   > account:             0x859EaF6aFde82a962922a74C99400a3144FebD42
+   > balance:             99.99099658
+   > gas used:            2667680 (0x28b4a0)
+   > gas price:           3.375 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00900342 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:          0.00900342 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.00900342 ETH
+
+
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Deploying 'DonationContract'
+   ----------------------------
+   > transaction hash:    0xf1a960c585607d110d011c37e667bb789d6d42a241eb14cbc2a8ae996772177f
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x0B52B9227012c626369eF105747F1FA3A15ED6bf
+   > block number:        1
+   > block timestamp:     1685599587
+   > account:             0xe1F670998b8a09ca77cE45A2004A6B3c5771E460
+   > balance:             99.990802909
+   > gas used:            2725064 (0x2994c8)
+   > gas price:           3.375 gwei
+   > value sent:          0 ETH
+   > total cost:          0.009197091 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:         0.009197091 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.009197091 ETH
+
+
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>code .
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>cd clients
+
+C:\Users\roni\tubes blockchain\Donasi-YUK\clients>code .
+
+C:\Users\roni\tubes blockchain\Donasi-YUK\clients>cd ..
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>code .
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Replacing 'DonationContract'
+   ----------------------------
+   > transaction hash:    0x1e040656cfdbcf54aa3f45a2f8c631665c5b8c66fd42eb01549c9fad940cc7a6
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x4D323CC3c4C95ABA7747aE169463D4836d9A396f
+   > block number:        2
+   > block timestamp:     1685604076
+   > account:             0xe1F670998b8a09ca77cE45A2004A6B3c5771E460
+   > balance:             99.981092097415546631
+   > gas used:            2895029 (0x2c2cb5)
+   > gas price:           3.354305461 gwei
+   > value sent:          0 ETH
+   > total cost:          0.009710811584453369 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.009710811584453369 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.009710811584453369 ETH
+
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Deploying 'DonationContract'
+   ----------------------------
+   > transaction hash:    0x9c667220871877d9acaf5ee7d2f9dfa478292b527d178d767da90bfa0fac11e7
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x90f90c221263466b13E65edc3554710d44EFC826
+   > block number:        19
+   > block timestamp:     1686076045
+   > account:             0xb270321ea01b4f1c6b3123ac387189bB5dA8f137
+   > balance:             99.948588711754950194
+   > gas used:            2774977 (0x2a57c1)
+   > gas price:           2.640688414 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007327849613016478 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.007327849613016478 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.007327849613016478 ETH
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Deploying 'DonationContract'
+   ----------------------------
+   > transaction hash:    0x9c667220871877d9acaf5ee7d2f9dfa478292b527d178d767da90bfa0fac11e7
+   > Blocks: 0            Seconds: 0
+   > contract address:    0x90f90c221263466b13E65edc3554710d44EFC826
+   > block number:        19
+   > block timestamp:     1686076045
+   > account:             0xb270321ea01b4f1c6b3123ac387189bB5dA8f137
+   > balance:             99.948588711754950194
+   > gas used:            2774977 (0x2a57c1)
+   > gas price:           2.640688414 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007327849613016478 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.007327849613016478 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.007327849613016478 ETH
+
+C:\Users\roni\tubes blockchain\Donasi-YUK>truffle migrate
+
+Compiling your contracts...
+===========================
+> Compiling .\contracts\DonationContract.sol
+> Compiling .\contracts\DonationContract.sol
+> Artifacts written to C:\Users\roni\tubes blockchain\Donasi-YUK\build\contracts
+> Compiled successfully using:
+   - solc: 0.8.19+commit.7dd6d404.Emscripten.clang
+
+
+Starting migrations...
+======================
+> Network name:    'development'
+> Network id:      5777
+> Block gas limit: 6721975 (0x6691b7)
+
+
+1_deploy_storage.js
+===================
+
+   Replacing 'DonationContract'
+   ----------------------------
+   > transaction hash:    0x813ffab49fab0ac9a6a06cdaa2a26fd3382304d06a1a862fdd7a1f84147ea261
+   > Blocks: 0            Seconds: 0
+   > contract address:    0xD6c3bd7e642704F86bA62a22Be2147E54A79BA76
+   > block number:        31
+   > block timestamp:     1686118203
+   > account:             0xb270321ea01b4f1c6b3123ac387189bB5dA8f137
+   > balance:             99.928270787902147149
+   > gas used:            2882594 (0x2bfc22)
+   > gas price:           2.538862513 gwei
+   > value sent:          0 ETH
+   > total cost:          0.007318509846798722 ETH
+
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.007318509846798722 ETH
+
+Summary
+=======
+> Total deployments:   1
+> Final cost:          0.007318509846798722 ETH
